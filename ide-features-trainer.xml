@@ -1,0 +1,30 @@
+<application>
+  <component name="LangManager">
+    <option name="languageName" value="Python" />
+  </component>
+  <component name="LessonStateBase">
+    <option name="map">
+      <map>
+        <entry key="Actions" value="NOT_PASSED" />
+        <entry key="Basic Completion" value="NOT_PASSED" />
+        <entry key="Collapse" value="NOT_PASSED" />
+        <entry key="Comment Line" value="NOT_PASSED" />
+        <entry key="Declaration and usages" value="NOT_PASSED" />
+        <entry key="Duplicate" value="NOT_PASSED" />
+        <entry key="Extract Method" value="NOT_PASSED" />
+        <entry key="Extract Variable" value="NOT_PASSED" />
+        <entry key="File structure" value="NOT_PASSED" />
+        <entry key="Move" value="NOT_PASSED" />
+        <entry key="Multiple Selections" value="NOT_PASSED" />
+        <entry key="Postfix Completion" value="NOT_PASSED" />
+        <entry key="Refactoring Menu" value="NOT_PASSED" />
+        <entry key="Rename" value="NOT_PASSED" />
+        <entry key="Search Everywhere" value="NOT_PASSED" />
+        <entry key="Select" value="NOT_PASSED" />
+        <entry key="Smart Completion" value="NOT_PASSED" />
+        <entry key="Surround and Unwrap" value="NOT_PASSED" />
+        <entry key="Tab Completion" value="NOT_PASSED" />
+      </map>
+    </option>
+  </component>
+</application>
